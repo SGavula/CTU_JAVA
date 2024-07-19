@@ -1,0 +1,5 @@
+Vyber operaci (1-soucet, 2-rozdil, 3-soucin, 4-podil):
+Zadej mensenec: 
+Zadej mensitel: 
+Zadej pocet desetinnych mist: 
+1.0 - 1.0 = 0.0
